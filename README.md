@@ -1,7 +1,7 @@
 # Text-Editor
 Based on the kilo text editor by snaptoken.
 
-Editor runs in terminal and supports:
+Editor runs in linux terminal and supports:
 - opening/editing existing files
 - creating new files
 - saving changes
